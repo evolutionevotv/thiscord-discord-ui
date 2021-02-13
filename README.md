@@ -23,5 +23,5 @@ you just need an IDE to edit the stuff if you need to</br>
 </br>
 
 # links
-[live version of thiscord](http://thiscord.evolutionevotv.pl/)
-[landing page (experimental)](http://thiscord.evolutionevotv.pl/landpage.html)
+[live version of thiscord](http://thiscord.evolutionevotv.pl/)</br>
+[landing page (experimental)](http://thiscord.evolutionevotv.pl/landpage.html)</br>
