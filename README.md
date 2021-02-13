@@ -16,7 +16,7 @@ no, we won't add sending messages. no, we won't add anything else related to the
 this is just intended to rip off the Discord UI, not Discord itself as a whole.
 
 # how to run
-download the zip and like fuckin uuhhh yeah</br>
+download the zip and like fuckin uuhhh yeah extract that somewhere</br>
 </br>
 you dont need xampp or any of that shit since it doesnt have any back-end (i mentioned it is the front-end only)</br>
 you just need an IDE to edit the stuff if you need to</br>
