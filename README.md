@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/777384344523505697/810288039199899658/20210214_000609.png"></img>
+<img src="logotc.png"></img>
 # Thiscord
 a crappy port of the discord interface front-end shit, maybe good for archival purposes i dont know</br>
 </br>
